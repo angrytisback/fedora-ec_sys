@@ -1,0 +1,13 @@
+*.o
+*.ko
+*.mod
+.mod.c
+..cmd
+modules.order
+Module.symvers
+.tmp_versions/
+ec_sys.c
+internal.h
+MOK.priv
+MOK.der
+x509.genkey
